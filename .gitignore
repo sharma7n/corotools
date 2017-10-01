@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# c9
+.c9
+.c9/
